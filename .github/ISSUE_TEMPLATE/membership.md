@@ -1,6 +1,9 @@
 ---
 name: Organization Membership Request
 about: Request membership in a Kubernetes Org
+title: ''
+labels: bug, duplicate, area/github-membership
+assignees: cblecker
 
 ---
 

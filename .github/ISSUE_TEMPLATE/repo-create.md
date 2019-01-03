@@ -1,6 +1,9 @@
 ---
 name: Repository creation/migration
 about: Create or migrate a repository into a Kubernetes Org
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

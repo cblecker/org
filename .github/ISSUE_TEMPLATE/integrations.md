@@ -1,6 +1,9 @@
 ---
 name: Integrations
 about: Third-party integrations, webhooks, or GitHub Apps
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
