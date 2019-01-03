@@ -1,6 +1,9 @@
 ---
 name: Repository archival
 about: Retire and archive a Kubernetes repository
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
